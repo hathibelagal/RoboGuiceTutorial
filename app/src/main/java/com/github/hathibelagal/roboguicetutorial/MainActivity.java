@@ -56,7 +56,5 @@ public class MainActivity extends RoboActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
-        email.setText(random1 + " " + random2);
     }
 }
